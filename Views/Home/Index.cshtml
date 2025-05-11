@@ -1,0 +1,30 @@
+﻿@model IEnumerable<CinemaProject.Models.Session>
+
+@{
+    ViewData["Title"] = "Главная";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-warning mb-3">📅 Сегодня в кино</h2>
+
+<table class="table table-dark table-bordered table-hover">
+    <thead class="table-warning text-dark">
+        <tr>
+            <th>Дата</th>
+            <th>Время</th>
+            <th>Фильм</th>
+            <th>Цена</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var session in Model)
+        {
+                <tr>
+                    <td>@session.Date.ToShortDateString()</td>
+                    <td>@session.Time</td>
+                    <td>@session.MovieTitle</td>
+                    <td>@session.Price.ToString("C")</td>
+                </tr>
+        }
+    </tbody>
+</table>

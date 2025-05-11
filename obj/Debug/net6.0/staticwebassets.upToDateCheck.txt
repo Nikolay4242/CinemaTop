@@ -1,0 +1,6 @@
+wwwroot\css\site.css
+wwwroot\img\cinema.webp
+wwwroot\img\diehard.webp
+wwwroot\img\kickboxer.webp
+wwwroot\img\predator.webp
+wwwroot\img\terminator2.webp

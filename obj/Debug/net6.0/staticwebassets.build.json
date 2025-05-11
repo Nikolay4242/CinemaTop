@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "l5LXnYfI9L6L9DPqJNueZUJUl7TaUUQEMLJX4sb7aOc=",
+  "Source": "CinemaProject",
+  "BasePath": "_content/CinemaProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CinemaProject\\wwwroot",
+      "Source": "CinemaProject",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\css\\site.css",
+      "SourceId": "CinemaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3i4jwrkqja",
+      "Integrity": "i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\cinema.webp",
+      "SourceId": "CinemaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "RelativePath": "img/cinema#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cuatl22s6n",
+      "Integrity": "JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\cinema.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\diehard.webp",
+      "SourceId": "CinemaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "RelativePath": "img/diehard#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xrjhrm7wtq",
+      "Integrity": "o/7+uo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\diehard.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\kickboxer.webp",
+      "SourceId": "CinemaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "RelativePath": "img/kickboxer#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7g50ao1iqw",
+      "Integrity": "aaoGfybiBoScm7iSbIwt9+4JHQ58NZZ5IOlRXcnYhps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\kickboxer.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\predator.webp",
+      "SourceId": "CinemaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "RelativePath": "img/predator#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccwubddf69",
+      "Integrity": "xDFixt0dU1D6ZsJecYFAtcsAEWt+Y34DSAQ9jzvBP6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\predator.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\terminator2.webp",
+      "SourceId": "CinemaProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\",
+      "BasePath": "_content/CinemaProject",
+      "RelativePath": "img/terminator2#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wk6ndpcoq2",
+      "Integrity": "EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\terminator2.webp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.3i4jwrkqja.css",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Aug 2024 15:04:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3i4jwrkqja"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Aug 2024 15:04:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE="
+        }
+      ]
+    },
+    {
+      "Route": "img/cinema.cuatl22s6n.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\cinema.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:43:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuatl22s6n"
+        },
+        {
+          "Name": "label",
+          "Value": "img/cinema.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM="
+        }
+      ]
+    },
+    {
+      "Route": "img/cinema.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\cinema.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:43:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM="
+        }
+      ]
+    },
+    {
+      "Route": "img/diehard.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\diehard.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "434702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/7+uo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:35:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/7+uo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o="
+        }
+      ]
+    },
+    {
+      "Route": "img/diehard.xrjhrm7wtq.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\diehard.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "434702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/7+uo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:35:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xrjhrm7wtq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/diehard.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/7+uo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o="
+        }
+      ]
+    },
+    {
+      "Route": "img/kickboxer.7g50ao1iqw.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\kickboxer.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "421290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aaoGfybiBoScm7iSbIwt9+4JHQ58NZZ5IOlRXcnYhps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:39:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7g50ao1iqw"
+        },
+        {
+          "Name": "label",
+          "Value": "img/kickboxer.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aaoGfybiBoScm7iSbIwt9+4JHQ58NZZ5IOlRXcnYhps="
+        }
+      ]
+    },
+    {
+      "Route": "img/kickboxer.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\kickboxer.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "421290"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aaoGfybiBoScm7iSbIwt9+4JHQ58NZZ5IOlRXcnYhps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:39:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aaoGfybiBoScm7iSbIwt9+4JHQ58NZZ5IOlRXcnYhps="
+        }
+      ]
+    },
+    {
+      "Route": "img/predator.ccwubddf69.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\predator.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xDFixt0dU1D6ZsJecYFAtcsAEWt+Y34DSAQ9jzvBP6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:37:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccwubddf69"
+        },
+        {
+          "Name": "label",
+          "Value": "img/predator.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xDFixt0dU1D6ZsJecYFAtcsAEWt+Y34DSAQ9jzvBP6A="
+        }
+      ]
+    },
+    {
+      "Route": "img/predator.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\predator.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xDFixt0dU1D6ZsJecYFAtcsAEWt+Y34DSAQ9jzvBP6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:37:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xDFixt0dU1D6ZsJecYFAtcsAEWt+Y34DSAQ9jzvBP6A="
+        }
+      ]
+    },
+    {
+      "Route": "img/terminator2.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\terminator2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M="
+        }
+      ]
+    },
+    {
+      "Route": "img/terminator2.wk6ndpcoq2.webp",
+      "AssetFile": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\terminator2.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 16:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wk6ndpcoq2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/terminator2.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M="
+        }
+      ]
+    }
+  ]
+}

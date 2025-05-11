@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/css/site.3i4jwrkqja.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3i4jwrkqja"},{"Name":"integrity","Value":"sha256-i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE="},{"Name":"label","Value":"_content/CinemaProject/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1314"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 Aug 2024 15:04:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1314"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022i8m7uhbEwgheeJKqFNGxC64/TjQSJzGmyOW/iWaObgE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 Aug 2024 15:04:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/cinema.cuatl22s6n.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\cinema.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cuatl22s6n"},{"Name":"integrity","Value":"sha256-JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM="},{"Name":"label","Value":"_content/CinemaProject/img/cinema.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"74888"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:43:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/cinema.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\cinema.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"74888"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022JHlDV9GpIWdaumA1NZljMXiXhu0KQGTc0CtoH2la1KM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:43:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/diehard.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\diehard.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o/7\u002Buo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"434702"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022o/7\u002Buo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:35:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/diehard.xrjhrm7wtq.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\diehard.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xrjhrm7wtq"},{"Name":"integrity","Value":"sha256-o/7\u002Buo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o="},{"Name":"label","Value":"_content/CinemaProject/img/diehard.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"434702"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022o/7\u002Buo9Lr02fENx3dGehHa0aS4tsNEsAvB5Fulpzm4o=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:35:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/kickboxer.7g50ao1iqw.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\kickboxer.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7g50ao1iqw"},{"Name":"integrity","Value":"sha256-aaoGfybiBoScm7iSbIwt9\u002B4JHQ58NZZ5IOlRXcnYhps="},{"Name":"label","Value":"_content/CinemaProject/img/kickboxer.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"421290"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022aaoGfybiBoScm7iSbIwt9\u002B4JHQ58NZZ5IOlRXcnYhps=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:39:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/kickboxer.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\kickboxer.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aaoGfybiBoScm7iSbIwt9\u002B4JHQ58NZZ5IOlRXcnYhps="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"421290"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022aaoGfybiBoScm7iSbIwt9\u002B4JHQ58NZZ5IOlRXcnYhps=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:39:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/predator.ccwubddf69.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\predator.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ccwubddf69"},{"Name":"integrity","Value":"sha256-xDFixt0dU1D6ZsJecYFAtcsAEWt\u002BY34DSAQ9jzvBP6A="},{"Name":"label","Value":"_content/CinemaProject/img/predator.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15624"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022xDFixt0dU1D6ZsJecYFAtcsAEWt\u002BY34DSAQ9jzvBP6A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:37:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/predator.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\predator.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xDFixt0dU1D6ZsJecYFAtcsAEWt\u002BY34DSAQ9jzvBP6A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15624"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022xDFixt0dU1D6ZsJecYFAtcsAEWt\u002BY34DSAQ9jzvBP6A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:37:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/terminator2.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\terminator2.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19934"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:38:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CinemaProject/img/terminator2.wk6ndpcoq2.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\terminator2.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wk6ndpcoq2"},{"Name":"integrity","Value":"sha256-EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M="},{"Name":"label","Value":"_content/CinemaProject/img/terminator2.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19934"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022EHJkvqoRMqY6ZRV0ARupL1gRCQsN8EyF548BwYbyW4M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 11 May 2025 16:38:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

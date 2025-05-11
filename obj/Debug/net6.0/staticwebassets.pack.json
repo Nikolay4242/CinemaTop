@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\cinema.webp",
+      "PackagePath": "staticwebassets\\img\\cinema.webp"
+    },
+    {
+      "Id": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\diehard.webp",
+      "PackagePath": "staticwebassets\\img\\diehard.webp"
+    },
+    {
+      "Id": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\kickboxer.webp",
+      "PackagePath": "staticwebassets\\img\\kickboxer.webp"
+    },
+    {
+      "Id": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\predator.webp",
+      "PackagePath": "staticwebassets\\img\\predator.webp"
+    },
+    {
+      "Id": "C:\\Users\\Roman\\Documents\\Downloads\\CinemaProject-master\\CinemaProject-master\\wwwroot\\img\\terminator2.webp",
+      "PackagePath": "staticwebassets\\img\\terminator2.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CinemaProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CinemaProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CinemaProject.props",
+      "PackagePath": "build\\CinemaProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CinemaProject.props",
+      "PackagePath": "buildMultiTargeting\\CinemaProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CinemaProject.props",
+      "PackagePath": "buildTransitive\\CinemaProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
